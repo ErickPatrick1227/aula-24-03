@@ -8,4 +8,5 @@ let objeto = {nome: "seila", idade: 100}
 
 console.log("pessoa:", nome, idade, ehEstudante)
 
-console.log("Tipos das variaves:", typeof idade, typeof objeto, typeof nome, typeof ehEstudante,);
+console.log("Tipos das variaves:", typeof idade,",", typeof objeto,",", typeof nome,",", typeof ehEstudante,);
+console.log("array", array)
